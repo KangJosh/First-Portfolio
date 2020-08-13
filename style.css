@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif
+}
+
+main {
+  background-color: #e5e5e5;
+}
+
+header {
+  background-color: #aed9e0
+}
+
+p {
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px
+}
+
+footer {
+  text-align: center;
+  background-color: #aed9e0;
+}
+
+a:link { color: #0c65eb; }
+a:visited { color: #b810e2; }
+a:hover { color: #403933; }
+a:active { color: #403933; }
+
+p {
+  font-size: 20px;
+}
